@@ -178,7 +178,7 @@ body {
   text-align: center;
 }
 .sponsors-list .sponsor-logo {
-  max-width: 200px;
+  max-width: 400px;
   overflow: hidden;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
