@@ -3,7 +3,7 @@ var app = express();
 
 var content = require('./content/content');
 
-var PORT = 3000;
+var PORT = 5000;
 
 app.set('view engine','jade');
 
